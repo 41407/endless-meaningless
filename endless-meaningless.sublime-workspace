@@ -1,0 +1,474 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"trans",
+				"Transition"
+			],
+			[
+				"fi",
+				"fi	<%= Fixtures.identify(:symbol) %>"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"new",
+				"newStr"
+			],
+			[
+				"get",
+				"getLength"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "endless-meaningless.sublime-project",
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/Active Objects/Item/Item.cs",
+			"settings":
+			{
+				"buffer_size": 555,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/Player/PlayerBasicGun.cs",
+			"settings":
+			{
+				"buffer_size": 2387,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/Active Objects/Item/Property.cs",
+			"settings":
+			{
+				"buffer_size": 161,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/Active Objects/Item/PropertyValue.cs",
+			"settings":
+			{
+				"buffer_size": 225,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++.sublime-build",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"rubytest",
+				"RubyTest: Show Test Panel"
+			],
+			[
+				"cucumber",
+				"Cucumber: Go to step definition"
+			],
+			[
+				"gherk",
+				"Gherkin/Cucumber: Format"
+			],
+			[
+				"cucumb",
+				"Gherkin/Cucumber: Format"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"picker",
+				"Color Picker"
+			],
+			[
+				"cucumbe",
+				"Cucumber: Search steps"
+			],
+			[
+				"pack insta",
+				"Package Control: Install Package"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 167.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/features/exercises_page.feature",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/features/task_index.feature",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/app/assets/stylesheets/exercises.scss",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/features/step_definitions/exercises_page_steps.rb",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/config/locales/fi.yml",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/.travis.yml",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/config/application.rb",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/config/locales/en.yml",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/app/assets/stylesheets/framework_and_overrides.css.scss",
+		"/Users/41407/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/app/models/hypothesis.rb",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/app/models/exercise_hypothesis.rb",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/app/views/exercises/show.html.erb",
+		"/Users/41407/Library/Application Support/Sublime Text 2/Packages/User/ApplySyntax.sublime-settings",
+		"/Users/41407/Documents/Koob/brawl-dudez/brawl-dudez.sublime-project",
+		"/Users/41407/Documents/Koob/brawl-dudez/Assets/Scripts/Input/MoveToClickPersp.cs",
+		"/Users/41407/Library/Application Support/Sublime Text 2/Packages/ApplySyntax/ApplySyntax.sublime-settings",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/app/views/layouts/_navigation_links.html.erb",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/app/views/layouts/_navigation.html.erb",
+		"/Users/41407/Documents/Koob/Rails/WebPalvelinohjelmointi2014/malliv/viikko5/coverage/assets/0.8.0/application.js",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/app/models/hypothesis_list.rb",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/Gemfile",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/db/migrate/20150115135958_create_exercises.rb",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/db/schema.rb",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/app/models/exercise.rb",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/db/migrate/20150127140655_add_count_to_hypothesis.rb",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/db/migrate/20150127140738_add_exercise_id_to_hypothesis.rb",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/db/migrate/20150127140842_add_exercise_id_to_task.rb",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/app/models/task.rb",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/db/migrate/20150127145714_rename_hypothesis_list_to_exercise_hypothesis.rb",
+		"/Users/41407/Documents/Koob/taudinpurkauspeli/db/migrate/20150127150140_remove_exercise_id_from_hypothesis.rb",
+		"/Users/41407/Documents/Koob/C++/Tests/stl.cpp",
+		"/Users/41407/Desktop/index.php",
+		"/Users/41407/Documents/Koob/C++/jiji/src/test.h",
+		"/Users/41407/Documents/Koob/C++/jiji/src/test.cpp",
+		"/Users/41407/Documents/Koob/C++/jiji/src/cstring.h",
+		"/Users/41407/Documents/Koob/C++/jiji/src/cstring.cpp",
+		"/Users/41407/Documents/Koob/C++/String/main.cpp",
+		"/Users/41407/Documents/Koob/C++/String/cstring.h",
+		"/Users/41407/Documents/Koob/C++/String/cstring.cpp",
+		"/Users/41407/Documents/Kuvasivu/style.css",
+		"/Users/41407/koob/PhpProject1/style.css",
+		"/Users/41407/koob/Qva/Qva/style.css",
+		"/Users/41407/koob/TItohommelit/hello.k91",
+		"/Users/41407/koob/PhpProject1/images.php",
+		"/Users/41407/koob/PhpProject1/endlessLoad.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/41407/Documents/Koob/taudinpurkauspeli/app/views",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"'Edit'",
+			"s",
+			"numero",
+			"hack",
+			"len",
+			"getstr",
+			"assignStr"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'Muokkaa'",
+			"source",
+			"s",
+			"length",
+			"toCharPtr",
+			"setStr"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "endless-meaningless.sublime-project",
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Scripts/Active Objects/Item/Item.cs",
+					"settings":
+					{
+						"buffer_size": 555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								210,
+								210
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Assets/Scripts/Player/PlayerBasicGun.cs",
+					"settings":
+					{
+						"buffer_size": 2387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 141.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Assets/Scripts/Active Objects/Item/Property.cs",
+					"settings":
+					{
+						"buffer_size": 161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Assets/Scripts/Active Objects/Item/PropertyValue.cs",
+					"settings":
+					{
+						"buffer_size": 225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 501.0
+	},
+	"output.travis-yml-panel":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/41407/Documents/Kuvasivu/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true
+}
